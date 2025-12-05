@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Antonio Alejandro Serrano Ramírez",
-    "label": "Programador full stack con más de 3 años de experiencia",
+    "label": "Programador full stack con más de 5 años de experiencia",
     "image": "/me.webp",
-    "email": "antaler.dev@outlook.com",
+    "email": "dev@nefnux.com",
     "phone": "",
-    "url": "https://antaler.dev",
-    "summary": "Programador full stack con más de 3 años de experiencia. Apasionado por la optimización del código y la mejora de la experiencia de desarrollo. Especializado en tecnologías frontend y backend, con habilidades de liderazgo y colaboración. Comprometido con ofrecer soluciones innovadoras y de alta calidad en cada proyecto.",
+    "url": "https://nefux.com",
+    "summary": "Programador full stack con más de 5 años de experiencia. Apasionado por la optimización del código y la mejora de la experiencia de desarrollo. Especializado en tecnologías frontend y backend, con habilidades de liderazgo y colaboración. Comprometido con ofrecer soluciones innovadoras y de alta calidad en cada proyecto.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,14 +21,14 @@
         "url": "https://linkedin.com/in/antaler"
       },
       {
-        "network": "X",
-        "username": "antaler",
-        "url": "https://x.com/_antaler"
+        "network": "GitHub",
+        "username": "nefnux",
+        "url": "https://github.com/nefnux"
       },
       {
-        "network": "GitHub",
-        "username": "antaler",
-        "url": "https://github.com/antaler"
+        "network": "GitLab",
+        "username": "nefnux",
+        "url": "https://gitlab.com/nefnux"
       }
     ]
   },
@@ -39,7 +39,7 @@
       "url": "",
       "startDate": "2020-11-19",
       "endDate": null,
-      "summary": "Desarrollé el producto de Santander Key, una solución de autorizacion de operaciones en el banco y su consola de administracion basado en firmas con clave criptograficas. Tambien ayude con la creacion de historias de usuario y su definicion funcional.",
+      "summary": "Desarrollé el producto de Santander Key, una solución de autorizacion de operaciones en el banco y su consola de administracion basado en firmas con clave criptograficas. Tambien ayude con la creacion de historias de usuario y su definicion funcional. Tambien servicios de la APP movil del banco Santander de Particulares.",
       "highlights": []
     }
   ],
@@ -259,7 +259,7 @@
   "projects": [
     {
       "name": "excel-creator",
-      "isActive": true,
+      "isActive": false,
       "description": "Creador de excel a partir de un conjunto de elementos",
       "highlights": [],
       "github": "https://github.com/antaler/excel-creator",
